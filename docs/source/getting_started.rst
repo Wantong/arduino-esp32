@@ -85,7 +85,7 @@ See `Installing Guides <installing.html>`_ for more details on how to install th
 Support
 -------
 
-This is an open project and it's supported by the community. Fell free to ask for help in one of the community channels.
+This is an open project and it's supported by the community. Feel free to ask for help in one of the community channels.
 
 Community
 ---------
